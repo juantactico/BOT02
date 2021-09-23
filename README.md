@@ -5,7 +5,7 @@
 <a href="#"><img title="CABALLEROBot" src="https://img.shields.io/badge/🐬𝑵𝒚𝒂𝒏𝑩𝒐𝒕 | 🔥𝗦𝗮𝗺𝘂𝟯𝟯𝟬🔥 | CABALLERO_OSCURO🥀-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/CABALLERO_OSCURO "><img title="Author" src="https://img.shields.io/badge/AUTOR-CABALLEROOSCURO-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
+<a href="https://github.com/CABALLERO_OSCURO "><img title="Author" src="https://img.shields.io/badge/AUTOR-CABALLERO_OSCURO-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue?colorA=%23ff0000&colorB=%230000ff&style=for-the-badge"</a>
